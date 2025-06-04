@@ -1,0 +1,1 @@
+ I tried to use different convolutional layer, not uring relu or a different size than 3,3. I also tried to change the max pool and change the dropout rate and the density of the layer. Lastly, I tried to change the output layer with output units
